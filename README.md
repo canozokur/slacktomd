@@ -9,7 +9,7 @@ to convert user notifications (@user) and channel links (#channel) to meaningful
 names.
 
 ## Usage
-# With node.js
+### With node.js
 var slacktomd = require('slacktomd');
 
 I have not yet published this as an npm package. Include it with a github reference
