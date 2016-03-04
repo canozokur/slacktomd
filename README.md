@@ -1,6 +1,6 @@
 ## slacktomd
-Message parser for Slack raw messages to Github Markdown Syntax.
-Based on [slackdown](https://www.npmjs.com/package/slackdown).
+Message parser for Slack raw messages to Github Markdown Syntax. Based on [slackdown](https://www.npmjs.com/package/slackdown).  
+
 Basic formatting like emphasis, strikethrough, code blocks, Slack
 <> tags, links and channel/user name convert are supported.
 
